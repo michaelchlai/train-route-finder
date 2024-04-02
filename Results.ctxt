@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=dept\ dest\ stations\ deptIndex\ destIndex\ time\ sor\ soa\ howMuch\ discount
+comment0.target=Results(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String,\ int,\ int,\ double,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Results\r\n
+numComments=1

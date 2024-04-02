@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=adminDeptIndex\ adminDestIndex
+comment0.target=Retrieve(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ File\r\n
+comment1.params=
+comment1.target=java.lang.String\ OpenFile()
+comment2.params=aryLines
+comment2.target=java.lang.String\ SendBack(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ textFieldString()
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=yearsIndex\ monthsIndex
+comment0.target=Date(int,\ int)
+comment1.params=
+comment1.target=int\ getNumberOfDays()
+comment2.params=
+comment2.target=java.lang.String[]\ getYears()
+comment3.params=
+comment3.target=java.lang.String[]\ getMonths()
+numComments=4
