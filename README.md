@@ -17,8 +17,8 @@ This project implements train route finder functionalities in Java.
 
 ### Class Diagram
 ---
-![](https://github.com/michaelchlai/train-route-finder/assets/blob/master/class_diagram.png)
+![](https://github.com/michaelchlai/train-route-finder/blob/main/assets/class_diagram.png)
 
 ### User Interface
 ---
-![](https://github.com/michaelchlai/train-route-finder/assets/blob/master/gui.png)
+![](https://github.com/michaelchlai/train-route-finder/blob/main/assets/gui.png)
